@@ -5,5 +5,5 @@ The original [tweet](https://twitter.com/rihanna/status/1356625889602199552?lang
 
 This repo contains a series of various analyses to understand the sentiment behind the most popular replies to Rihanna's infamous tweet to test the hypothesis of whether the media tends to blow things out of proportion in the name of sensationalism.
 
-The final insights and commentary have been added to the [commentary.pdf]() file.
+The final insights and commentary have been added to the [commentary.pdf](https://github.com/Tango2503/rihanna_twitter_analysis/blob/main/commentary.pdf) file.
 
